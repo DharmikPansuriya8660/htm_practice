@@ -1,0 +1,6 @@
+.fontsize{font-size: 15px;}
+a {padding: 10px; background-color:#5f5f5f; text-decoration: none; color: white; text-transform: uppercase;}
+a:link{color: yellow;}
+a:visited{color: tomato;}
+a:hover{color: black;}
+a:active{color: pink;}

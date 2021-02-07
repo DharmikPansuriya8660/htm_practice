@@ -1,0 +1,16 @@
+.font20 { 
+         font-size:25px;
+}
+
+p.para1{color:maroon;
+        border:10px solid red;
+		margin: 100px;
+         }
+p.para2{color:tomato;
+        border:10px solid gray;
+		padding: 100px; 
+}
+
+
+
+ External Css reference= <link rel="stylesheet" href="F:\WEB DESIGNING\HTML\4 CSS Basic\Style.css" />
